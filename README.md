@@ -2,7 +2,7 @@
 - 🙂 I’m Qinshi!
 - 💬 I’m  interesting in utilizing AI/HCI techniques to build game or apps.
 - 🤔 Programming Languages: Java,C++,Python,HTML/CSS/JS.
-- 📫 How to reach me: Feel free to schedule a 30 minutes communication with me [here!](https://calendly.com/carolzhang705).  
+
 
 <!--
 **Carolzhangzz/Carolzhangzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
