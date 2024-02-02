@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🙂 I’m Qinshi!
-- 🤔 I’m currently learning Java,C++,Python,HTML/CSS/JS.
-- 💬 I’m  interesting in utilizing AI/HCI techniques to build game or apps. 
+- 💬 I’m  interesting in utilizing AI/HCI techniques to build game or apps.
+- 🤔 Programming Languages: Java,C++,Python,HTML/CSS/JS.
 - 📫 How to reach me: Feel free to schedule a 30 minutes communication with me [here!](https://calendly.com/carolzhang705).  
 
 <!--
