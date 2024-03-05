@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🙂 I’m Qinshi!
 - 💬 I’m  interesting in utilizing AI/HCI techniques to build game or apps.
-- 🤔 Programming Languages: Java,C++,Python,HTML/CSS/JS.
+- 🤔 Programming Languages: Java,Python,HTML/CSS/JS.
 
 
 <!--
